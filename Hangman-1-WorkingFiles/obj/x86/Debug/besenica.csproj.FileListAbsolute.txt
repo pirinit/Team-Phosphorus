@@ -1,0 +1,5 @@
+D:\Dropbox\TelerikAcademy\SoftwareAcademy\ProgrammerTrack\4.HighQualityCode\10.TeamProject\Hangman-1\bin\Debug\Hangman.exe
+D:\Dropbox\TelerikAcademy\SoftwareAcademy\ProgrammerTrack\4.HighQualityCode\10.TeamProject\Hangman-1\bin\Debug\Hangman.pdb
+D:\Dropbox\TelerikAcademy\SoftwareAcademy\ProgrammerTrack\4.HighQualityCode\10.TeamProject\Hangman-1\obj\x86\Debug\besenica.csprojResolveAssemblyReference.cache
+D:\Dropbox\TelerikAcademy\SoftwareAcademy\ProgrammerTrack\4.HighQualityCode\10.TeamProject\Hangman-1\obj\x86\Debug\Hangman.exe
+D:\Dropbox\TelerikAcademy\SoftwareAcademy\ProgrammerTrack\4.HighQualityCode\10.TeamProject\Hangman-1\obj\x86\Debug\Hangman.pdb
